@@ -4,8 +4,6 @@
 
 This project was created during a hackathon challenge, where the goal was to design and solve a Code Wars-style kata while writing unit tests using **Vitest** to validate the solutions. My kata focuses on categorising ducks fetched from an API based on their status codes, providing a practical challenge that combines API handling and data manipulation.
 
----
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -16,8 +14,6 @@ This project was created during a hackathon challenge, where the goal was to des
 6. [Installation Instructions](#installation-instructions)
 7. [How to Play](#how-to-play)
 8. [Solution Explanation](#solution-explanation)
-
----
 
 ## Project Overview
 
@@ -64,9 +60,7 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
 | Categorising ducks from nested data    | Had to figure out how to access nested properties reliably. Used object destructuring and helper functions.                                                                                                                                                                                                                                                                                                         |
 | Handling asynchronous data with Vitest | Initially struggled with async testing. Used `async/await` to resolve promises in tests.                                                                                                                                                                                                                                                                                                                            |
 
----
-
-# HOW TO PLAY
+# How to play
 
 ### Challenge Overview
 
@@ -77,7 +71,7 @@ In this kata, you'll work with an API that serves duck images and their associat
 - API data handling
 - Working with nested objects and arrays
 - Data categorisation and manipulation
-- Asynchronous programming (Hard Mode)
+- Asynchronous programming
 
 ## Difficulty Modes
 
@@ -91,8 +85,6 @@ In this kata, you'll work with an API that serves duck images and their associat
 
 - Implement your own API fetch functionality.
 - Handle asynchronous operations.
-
----
 
 ## Installation Instructions
 
@@ -115,7 +107,5 @@ cd "easy mode"
 ```bash
 cd "hard mode"
 ```
-
----
 
 ### 🌟 Good luck & happy coding ! 🌟
