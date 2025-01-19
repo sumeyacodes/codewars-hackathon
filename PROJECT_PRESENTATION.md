@@ -8,7 +8,7 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
 
 1. [Planning Phase](#planning-phase)
 2. [Brainstorming](#brainstorming)
-3. [Implementation](#implementation)
+3. [Tasks](#tasks)
 4. [My Challenges & Solutions](#my-challenges--solutions)
 5. [How to Play](#how-to-play)
 6. [Challenge Overview](#challenge-overview)
@@ -30,7 +30,7 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
 - **Asynchronous Data**: Practice handling promises and async/await with API calls.
 - **Data Manipulation**: Participants will parse and manipulate API data to group ducks based on their status codes.
 
-## Implementation
+## Tasks
 
 - [x] **Task 1**: Set up project structure and dependencies.
   - [x] Install **Vitest** for testing.
@@ -49,8 +49,8 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
 
 | Challenge                              | Solution                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Testing the API using Vitest           | Ran into multiple approaches for mocking API requests. Focused on testing data manipulation instead of actual API fetch calls. This led to the creation of **Easy Mode** and **Hard Mode**: <br> **Easy Mode**: Focuses on data manipulation with the `fetch` API already implemented. <br> **Hard Mode**: Requires participants to implement the `fetch` API and handle asynchronous responses, adding complexity. |
-| Categorising ducks from nested data    | Had to figure out how to access nested properties reliably. Used object destructuring and helper functions.                                                                                                                                                                                                                                                                                                         |
+| Testing the API using Vitest           | Ran into multiple approaches for mocking API requests, which I found difficult to implement. Realised this wasn't the focus of the hackathon, so decided to implement second function to focus on testing function logic instead of actual API fetch calls. This led to the creation of **Easy Mode** and **Hard Mode**: <br> **Easy Mode**: Focuses on second function for data manipulation with the `fetch` API function already implemented. <br> **Hard Mode**: Requires participants to `fetch` data from the API and handle asynchronous responses, adding complexity, as well as function for data manipulation|
+| Categorising ducks from nested data    | Had to figure out how to access nested properties reliably. Used object destructuring and array manipulation.                                                                                                                                                                           |
 | Handling asynchronous data with Vitest | Initially struggled with async testing. Used `async/await` to resolve promises in tests.                                                                                                                                                                                                                                                                                                                            |
 
 # How to play
