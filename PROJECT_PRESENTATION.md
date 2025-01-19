@@ -1,34 +1,27 @@
-# 🦆 THE HORSE SIZED DUCK KATA 🦆
-
-## Overview
-
-This project was created during a hackathon challenge, where the goal was to design and solve a Code Wars-style kata while writing unit tests using **Vitest** to validate the solutions. My kata focuses on categorising ducks fetched from an API based on their status codes, providing a practical challenge that combines API handling and data manipulation.
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Planning Phase](#planning-phase)
-3. [Brainstorming](#brainstorming)
-4. [Implementation](#implementation)
-5. [Challenge Overview](#challenge-overview)
-6. [Installation Instructions](#installation-instructions)
-7. [How to Play](#how-to-play)
-8. [Solution Explanation](#solution-explanation)
+# 🌟 THE HORSE SIZED DUCK KATA 🌟
 
 ## Project Overview
 
 This project is a hackathon challenge focused on creating a Code Wars-style kata. The goal was to develop a problem related to data manipulation and categorisation, then validate the solution by writing unit tests using **Vitest**. The main challenge involves working with API data and categorising the ducks based on status codes, allowing participants to practice handling APIs, nested objects, and arrays.
 
-## Planning Phase
+## Table of Contents
 
-### Project Requirements
+1. [Planning Phase](#planning-phase)
+2. [Brainstorming](#brainstorming)
+3. [Implementation](#implementation)
+4. [My Challenges & Solutions](#my-challenges--solutions)
+5. [How to Play](#how-to-play)
+6. [Challenge Overview](#challenge-overview)
+7. [Installation Instructions](#installation-instructions)
+
+# Planning Phase
+
+## Project Requirements
 
 - Design a kata that encourages participants to practice handling API data and categorising nested objects and arrays
 - Write unit tests using **Vitest** to ensure the solution meets all requirements
 
 ## Brainstorming
-
-### Ideas & Concepts
 
 - **Farm Animals Idea**: Initially inspired by farm animals, but the duck theme was definitely more engaging.
 - **Horse-Size Duck: Final Challenge**: Based on the question: _Would you rather fight a hundred little ducks or a horse-sized duck?_
@@ -52,7 +45,7 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
   - [x] Test API response handling.
   - [x] Test categorisation logic.
 
-### My Challenges & Solutions
+## My Challenges & Solutions
 
 | Challenge                              | Solution                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -62,16 +55,17 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
 
 # How to play
 
-### Challenge Overview
+## Challenge Overview
 
 In this kata, you'll work with an API that serves duck images and their associated status codes. Your mission is to create a categorisation system that sorts these ducks based on their status codes. Think of it as organizing an army of ducks - but be careful, one of them might be horse-sized!
 
-### What You'll Learn
+## What You'll Learn
 
 - API data handling
 - Working with nested objects and arrays
 - Data categorisation and manipulation
 - Asynchronous programming
+
 
 ## Difficulty Modes
 
@@ -86,7 +80,7 @@ In this kata, you'll work with an API that serves duck images and their associat
 - Implement your own API fetch functionality.
 - Handle asynchronous operations.
 
-## Installation Instructions
+# Installation Instructions
 
 ### 1. Clone the repository:
 
@@ -102,10 +96,10 @@ git clone https://github.com/SchoolOfCode/week-6-hackathon-sumeyacodes.git
 cd "easy mode"
 ```
 
-### For Hard Mode
+#### For Hard Mode
 
 ```bash
 cd "hard mode"
 ```
 
-### 🌟 Good luck & happy coding ! 🌟
+## Good luck & happy coding ! 🦆🌟
