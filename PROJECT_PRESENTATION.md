@@ -1,4 +1,4 @@
-# 🌟 THE HORSE SIZED DUCK KATA 🌟
+# THE HORSE SIZED DUCK ATTACK KATA 🌟
 
 ## Project Overview
 
@@ -57,7 +57,10 @@ This project is a hackathon challenge focused on creating a Code Wars-style kata
 
 ## Challenge Overview
 
-In this kata, you'll work with an API that serves duck images and their associated status codes. Your mission is to create a categorisation system that sorts these ducks based on their status codes. Think of it as organizing an army of ducks - but be careful, one of them might be horse-sized!
+A wild mummy duck appears in front of you. She is angry because her ducklings are missing, and she blames YOU!
+She orders you to fetch all her ducklings immediately, and organise them based on a very specific structure. 
+
+In this kata, you'll work with an API that serves duck images and their associated status codes. Your mission is to create a categorisation system that sorts these ducks based on their status codes into nested objects and arrays, as if you're organising an army of little ducklings  🦆
 
 ## What You'll Learn
 
@@ -102,4 +105,4 @@ cd "easy mode"
 cd "hard mode"
 ```
 
-## Good luck & happy coding ! 🦆🌟
+## Good luck & happy coding ! 🦆
